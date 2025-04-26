@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nicolekneip.github.io/NKDesignCo/sitemap.xml

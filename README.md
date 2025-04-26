@@ -1,2 +1,0 @@
-# NKDesignCo
- Publli Pinterest Website
