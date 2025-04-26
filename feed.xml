@@ -3,10 +3,30 @@
     <title>NicoleFargen.com</title>
     <link href="https://nicolekneip.github.io/NKDesignCo/feed.xml" rel="self" />
     <link href="https://nicolekneip.github.io/NKDesignCo" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2025-04-26T10:45:02-05:00</updated>
     <author>
         <name>Nicole Fargen</name>
     </author>
     <id>https://nicolekneip.github.io/NKDesignCo</id>
 
+    <entry>
+        <title>This is a Test Post</title>
+        <author>
+            <name>Nicole Fargen</name>
+        </author>
+        <link href="https://nicolekneip.github.io/NKDesignCo/this-is-a-test-post.html"/>
+        <id>https://nicolekneip.github.io/NKDesignCo/this-is-a-test-post.html</id>
+
+        <updated>2025-04-26T10:45:02-05:00</updated>
+            <summary>
+                <![CDATA[
+                    https://ca.pinterest.com/nkdsgnsco/
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>https://ca.pinterest.com/nkdsgnsco/</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
