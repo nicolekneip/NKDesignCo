@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://nicolekneip.github.io/NKDesignCo/the-fartgens.html",
+            "url": "https://nicolekneip.github.io/NKDesignCo/the-fartgens.html",
+            "title": "The Fartgens",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://nicolekneip.github.io/NKDesignCo/media/posts/2/NicoleandQuinn3-2.jpg\" alt=\"\" width=\"2925\" height=\"4387\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://nicolekneip.github.io/NKDesignCo/media/posts/2/responsive/NicoleandQuinn3-2-xs.jpg 300w ,https://nicolekneip.github.io/NKDesignCo/media/posts/2/responsive/NicoleandQuinn3-2-sm.jpg 480w ,https://nicolekneip.github.io/NKDesignCo/media/posts/2/responsive/NicoleandQuinn3-2-md.jpg 768w ,https://nicolekneip.github.io/NKDesignCo/media/posts/2/responsive/NicoleandQuinn3-2-lg.jpg 1024w\"></figure>",
+            "author": {
+                "name": "Nicole Fargen"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-26T10:50:41-05:00",
+            "date_modified": "2025-04-26T10:50:41-05:00"
+        },
+        {
             "id": "https://nicolekneip.github.io/NKDesignCo/this-is-a-test-post.html",
             "url": "https://nicolekneip.github.io/NKDesignCo/this-is-a-test-post.html",
             "title": "This is a Test Post",

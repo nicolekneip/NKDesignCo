@@ -3,12 +3,28 @@
     <title>NicoleFargen.com</title>
     <link href="https://nicolekneip.github.io/NKDesignCo/feed.xml" rel="self" />
     <link href="https://nicolekneip.github.io/NKDesignCo" />
-    <updated>2025-04-26T10:45:02-05:00</updated>
+    <updated>2025-04-26T10:50:41-05:00</updated>
     <author>
         <name>Nicole Fargen</name>
     </author>
     <id>https://nicolekneip.github.io/NKDesignCo</id>
 
+    <entry>
+        <title>The Fartgens</title>
+        <author>
+            <name>Nicole Fargen</name>
+        </author>
+        <link href="https://nicolekneip.github.io/NKDesignCo/the-fartgens.html"/>
+        <id>https://nicolekneip.github.io/NKDesignCo/the-fartgens.html</id>
+
+        <updated>2025-04-26T10:50:41-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://nicolekneip.github.io/NKDesignCo/media/posts/2/NicoleandQuinn3-2.jpg" alt="" width="2925" height="4387" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://nicolekneip.github.io/NKDesignCo/media/posts/2/responsive/NicoleandQuinn3-2-xs.jpg 300w ,https://nicolekneip.github.io/NKDesignCo/media/posts/2/responsive/NicoleandQuinn3-2-sm.jpg 480w ,https://nicolekneip.github.io/NKDesignCo/media/posts/2/responsive/NicoleandQuinn3-2-md.jpg 768w ,https://nicolekneip.github.io/NKDesignCo/media/posts/2/responsive/NicoleandQuinn3-2-lg.jpg 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>This is a Test Post</title>
         <author>
