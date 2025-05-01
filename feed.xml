@@ -3,45 +3,40 @@
     <title>NicoleFargen.com</title>
     <link href="https://nicolekneip.github.io/NKDesignCo/feed.xml" rel="self" />
     <link href="https://nicolekneip.github.io/NKDesignCo" />
-    <updated>2025-04-26T10:50:41-05:00</updated>
+    <updated>2025-04-28T15:51:41-05:00</updated>
     <author>
         <name>Nicole Fargen</name>
     </author>
     <id>https://nicolekneip.github.io/NKDesignCo</id>
 
     <entry>
-        <title>The Fartgens</title>
+        <title>Pink Green | Wedding Color Theme</title>
         <author>
             <name>Nicole Fargen</name>
         </author>
-        <link href="https://nicolekneip.github.io/NKDesignCo/the-fartgens.html"/>
-        <id>https://nicolekneip.github.io/NKDesignCo/the-fartgens.html</id>
+        <link href="https://nicolekneip.github.io/NKDesignCo/pink-green-or-wedding-color-theme/"/>
+        <id>https://nicolekneip.github.io/NKDesignCo/pink-green-or-wedding-color-theme/</id>
+        <media:content url="https://nicolekneip.github.io/NKDesignCo/media/posts/3/Pink-Green-Wedding-Theme-2.png" medium="image" />
+            <category term="Wedding Vision Boards"/>
+            <category term="Pink"/>
+            <category term="Green"/>
 
-        <updated>2025-04-26T10:50:41-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://nicolekneip.github.io/NKDesignCo/media/posts/2/NicoleandQuinn3-2.jpg" alt="" width="2925" height="4387" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://nicolekneip.github.io/NKDesignCo/media/posts/2/responsive/NicoleandQuinn3-2-xs.jpg 300w ,https://nicolekneip.github.io/NKDesignCo/media/posts/2/responsive/NicoleandQuinn3-2-sm.jpg 480w ,https://nicolekneip.github.io/NKDesignCo/media/posts/2/responsive/NicoleandQuinn3-2-md.jpg 768w ,https://nicolekneip.github.io/NKDesignCo/media/posts/2/responsive/NicoleandQuinn3-2-lg.jpg 1024w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>This is a Test Post</title>
-        <author>
-            <name>Nicole Fargen</name>
-        </author>
-        <link href="https://nicolekneip.github.io/NKDesignCo/this-is-a-test-post.html"/>
-        <id>https://nicolekneip.github.io/NKDesignCo/this-is-a-test-post.html</id>
-
-        <updated>2025-04-26T10:45:02-05:00</updated>
+        <updated>2025-04-26T14:55:14-05:00</updated>
             <summary>
                 <![CDATA[
-                    https://ca.pinterest.com/nkdsgnsco/
+                        <img src="https://nicolekneip.github.io/NKDesignCo/media/posts/3/Pink-Green-Wedding-Theme-2.png" alt="" />
+                    Shop this vision board 🛒 Wedding Gown - BLHDN High Neck Halter&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>https://ca.pinterest.com/nkdsgnsco/</p>
+                    <p><img src="https://nicolekneip.github.io/NKDesignCo/media/posts/3/Pink-Green-Wedding-Theme-2.png" class="type:primaryImage" alt="" /></p>
+                <h3 class="align-left">Shop this vision board 🛒</h3>
+<ul>
+<li>Wedding Gown - BLHDN</li>
+<li>High Neck Halter Green Bridesmaid Dress - Selfie Leslie</li>
+</ul>
+<pre><strong data-start="368" data-end="383">Disclosure:</strong> This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. Thank you for supporting NK Designs Co!</pre>
             ]]>
         </content>
     </entry>

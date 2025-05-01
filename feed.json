@@ -5,36 +5,28 @@
     "home_page_url": "https://nicolekneip.github.io/NKDesignCo",
     "feed_url": "https://nicolekneip.github.io/NKDesignCo/feed.json",
     "user_comment": "",
+    "icon": "https://nicolekneip.github.io/NKDesignCo/media/website/NK-DSNGS-CO-1-2.png",
     "author": {
         "name": "Nicole Fargen"
     },
     "items": [
         {
-            "id": "https://nicolekneip.github.io/NKDesignCo/the-fartgens.html",
-            "url": "https://nicolekneip.github.io/NKDesignCo/the-fartgens.html",
-            "title": "The Fartgens",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://nicolekneip.github.io/NKDesignCo/media/posts/2/NicoleandQuinn3-2.jpg\" alt=\"\" width=\"2925\" height=\"4387\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://nicolekneip.github.io/NKDesignCo/media/posts/2/responsive/NicoleandQuinn3-2-xs.jpg 300w ,https://nicolekneip.github.io/NKDesignCo/media/posts/2/responsive/NicoleandQuinn3-2-sm.jpg 480w ,https://nicolekneip.github.io/NKDesignCo/media/posts/2/responsive/NicoleandQuinn3-2-md.jpg 768w ,https://nicolekneip.github.io/NKDesignCo/media/posts/2/responsive/NicoleandQuinn3-2-lg.jpg 1024w\"></figure>",
+            "id": "https://nicolekneip.github.io/NKDesignCo/pink-green-or-wedding-color-theme/",
+            "url": "https://nicolekneip.github.io/NKDesignCo/pink-green-or-wedding-color-theme/",
+            "title": "Pink Green | Wedding Color Theme",
+            "summary": "Shop this vision board 🛒 Wedding Gown - BLHDN High Neck Halter&hellip;",
+            "content_html": "<h3 class=\"align-left\">Shop this vision board 🛒</h3>\n<ul>\n<li>Wedding Gown - BLHDN</li>\n<li>High Neck Halter Green Bridesmaid Dress - Selfie Leslie</li>\n</ul>\n<pre><strong data-start=\"368\" data-end=\"383\">Disclosure:</strong> This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. Thank you for supporting NK Designs Co!</pre>",
+            "image": "https://nicolekneip.github.io/NKDesignCo/media/posts/3/Pink-Green-Wedding-Theme-2.png",
             "author": {
                 "name": "Nicole Fargen"
             },
             "tags": [
+                   "Wedding Vision Boards",
+                   "Pink",
+                   "Green"
             ],
-            "date_published": "2025-04-26T10:50:41-05:00",
-            "date_modified": "2025-04-26T10:50:41-05:00"
-        },
-        {
-            "id": "https://nicolekneip.github.io/NKDesignCo/this-is-a-test-post.html",
-            "url": "https://nicolekneip.github.io/NKDesignCo/this-is-a-test-post.html",
-            "title": "This is a Test Post",
-            "summary": "https://ca.pinterest.com/nkdsgnsco/",
-            "content_html": "<p>https://ca.pinterest.com/nkdsgnsco/</p>",
-            "author": {
-                "name": "Nicole Fargen"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-04-26T10:45:02-05:00",
-            "date_modified": "2025-04-26T10:45:02-05:00"
+            "date_published": "2025-04-26T14:55:14-05:00",
+            "date_modified": "2025-04-28T15:51:41-05:00"
         }
     ]
 }
