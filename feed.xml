@@ -3,7 +3,7 @@
     <title>NicoleFargen.com</title>
     <link href="https://nicolefargen.com/feed.xml" rel="self" />
     <link href="https://nicolefargen.com" />
-    <updated>2025-05-05T13:10:32-05:00</updated>
+    <updated>2025-05-05T15:23:29-05:00</updated>
     <author>
         <name>Nicole Fargen</name>
     </author>
@@ -17,6 +17,10 @@
         <link href="https://nicolefargen.com/berry-pink-red-hand-drawn-or-wedding-invitation-template/"/>
         <id>https://nicolefargen.com/berry-pink-red-hand-drawn-or-wedding-invitation-template/</id>
         <media:content url="https://nicolefargen.com/media/posts/13/1.png" medium="image" />
+            <category term="Stationery"/>
+            <category term="Pink"/>
+            <category term="Burgundy"/>
+            <category term="Berry"/>
 
         <updated>2025-05-05T13:10:32-05:00</updated>
             <summary>
@@ -43,6 +47,7 @@
         <media:content url="https://nicolefargen.com/media/posts/12/Untitled-design-3.png" medium="image" />
             <category term="Terracotta"/>
             <category term="Pink"/>
+            <category term="Mood Boards"/>
             <category term="Mauve"/>
             <category term="Champagne"/>
 
@@ -106,6 +111,7 @@
         <id>https://nicolefargen.com/pink-green-or-wedding-color-theme-4/</id>
         <media:content url="https://nicolefargen.com/media/posts/10/Red-Wedding-Theme.png" medium="image" />
             <category term="Red"/>
+            <category term="Mood Boards"/>
             <category term="Burgundy"/>
 
         <updated>2025-05-02T17:23:57-05:00</updated>
@@ -176,6 +182,7 @@
             <category term="Red"/>
             <category term="Pink"/>
             <category term="Olive Green"/>
+            <category term="Mood Boards"/>
             <category term="Burgundy"/>
             <category term="Berry"/>
 
@@ -252,6 +259,7 @@
             <category term="Rust"/>
             <category term="Peach"/>
             <category term="Olive Green"/>
+            <category term="Mood Boards"/>
             <category term="Burgundy"/>
 
         <updated>2025-05-02T10:24:17-05:00</updated>
@@ -315,6 +323,7 @@
         <media:content url="https://nicolefargen.com/media/posts/3/Pink-Green-Wedding-Theme.png" medium="image" />
             <category term="Pink"/>
             <category term="Olive Green"/>
+            <category term="Mood Boards"/>
 
         <updated>2025-04-26T14:55:14-05:00</updated>
             <summary>
