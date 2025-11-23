@@ -1,22 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>NicoleFargen.com</title>
-    <link href="https://nicolefargen.com/feed.xml" rel="self" />
-    <link href="https://nicolefargen.com" />
-    <updated>2025-07-17T13:26:14-05:00</updated>
+    <link href="https://noelpaperco.com/feed.xml" rel="self" />
+    <link href="https://noelpaperco.com" />
+    <updated>2025-11-23T15:18:18-06:00</updated>
     <author>
         <name>Nicole Fargen</name>
     </author>
-    <id>https://nicolefargen.com</id>
+    <id>https://noelpaperco.com</id>
 
+    <entry>
+        <title>Quinns Test</title>
+        <author>
+            <name>Nicole Fargen</name>
+        </author>
+        <link href="https://noelpaperco.com/quinns-test/"/>
+        <id>https://noelpaperco.com/quinns-test/</id>
+
+        <updated>2025-11-23T15:18:14-06:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Burgundy Blue Brown | Wedding Color Theme</title>
         <author>
             <name>Nicole Fargen</name>
         </author>
-        <link href="https://nicolefargen.com/burgundy-blue-brown-or-wedding-color-theme/"/>
-        <id>https://nicolefargen.com/burgundy-blue-brown-or-wedding-color-theme/</id>
-        <media:content url="https://nicolefargen.com/media/posts/32/Blue-Burgundy-Brown-Wedding-Theme.png" medium="image" />
+        <link href="https://noelpaperco.com/burgundy-blue-brown-or-wedding-color-theme/"/>
+        <id>https://noelpaperco.com/burgundy-blue-brown-or-wedding-color-theme/</id>
+        <media:content url="https://noelpaperco.com/media/posts/32/Blue-Burgundy-Brown-Wedding-Theme.png" medium="image" />
             <category term="Wedding Mood Boards"/>
             <category term="Champagne"/>
             <category term="Burgundy"/>
@@ -26,13 +38,13 @@
         <updated>2025-07-14T14:01:18-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nicolefargen.com/media/posts/32/Blue-Burgundy-Brown-Wedding-Theme.png" alt="" />
+                        <img src="https://noelpaperco.com/media/posts/32/Blue-Burgundy-Brown-Wedding-Theme.png" alt="" />
                     Looking for sophisticated wedding theme inspiration? This stunning blue, burgundy, and brown&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nicolefargen.com/media/posts/32/Blue-Burgundy-Brown-Wedding-Theme.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://noelpaperco.com/media/posts/32/Blue-Burgundy-Brown-Wedding-Theme.png" class="type:primaryImage" alt="" /></p>
                 <h6 class="align-center" data-start="942" data-end="1506">Looking for sophisticated wedding theme inspiration? This stunning blue, burgundy, and brown wedding color palette is perfect for a fall or winter celebration. Save this collage for ideas on classy bridesmaid dresses, modern groom suits, elegant wedding invitation templates, unique table decor, signature drinks, florals, and a timeless wedding cake. Shop these beautiful wedding essentials to create a cohesive and romantic wedding day. Find links to bridesmaid dresses, wedding gowns, suits, and decor ideas to make planning easy. Follow for more wedding color palettes and inspo for your dream day!</h6>
 <h3 class="align-left">Shop this vision board 🛒</h3>
 <ul style="list-style-type: square;">
@@ -88,9 +100,9 @@
         <author>
             <name>Nicole Fargen</name>
         </author>
-        <link href="https://nicolefargen.com/bikinis-and-martinis-bachelorette-theme-2/"/>
-        <id>https://nicolefargen.com/bikinis-and-martinis-bachelorette-theme-2/</id>
-        <media:content url="https://nicolefargen.com/media/posts/31/Bikinis-and-Martinis-Collage.png" medium="image" />
+        <link href="https://noelpaperco.com/bikinis-and-martinis-bachelorette-theme-2/"/>
+        <id>https://noelpaperco.com/bikinis-and-martinis-bachelorette-theme-2/</id>
+        <media:content url="https://noelpaperco.com/media/posts/31/Bikinis-and-Martinis-Collage.png" medium="image" />
             <category term="White"/>
             <category term="Green"/>
             <category term="Brown"/>
@@ -99,13 +111,13 @@
         <updated>2025-07-08T19:55:44-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nicolefargen.com/media/posts/31/Bikinis-and-Martinis-Collage.png" alt="" />
+                        <img src="https://noelpaperco.com/media/posts/31/Bikinis-and-Martinis-Collage.png" alt="" />
                     Planning the ultimate “Bikinis &amp; Martinis” bachelorette weekend? 🍸👙 Get inspired with&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nicolefargen.com/media/posts/31/Bikinis-and-Martinis-Collage.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://noelpaperco.com/media/posts/31/Bikinis-and-Martinis-Collage.png" class="type:primaryImage" alt="" /></p>
                 <h6 class="align-center" data-start="942" data-end="1506">Planning the ultimate “Bikinis &amp; Martinis” bachelorette weekend? 🍸👙 Get inspired with this fun collage! Shop matching swimsuits, cute outfits, pool party accessories, and must-have beach bachelorette merch. Plus grab my editable mobile itinerary and packing list template to plan every detail of your Charleston or beach girls trip! Save this mood board for your bride’s last splash — cheers beaches! 🌴✨</h6>
 <h3 class="align-left">Shop this mood board 🛒</h3>
 <ul style="list-style-type: square;">
@@ -159,20 +171,20 @@
         <author>
             <name>Nicole Fargen</name>
         </author>
-        <link href="https://nicolefargen.com/practical-bridesmaid-gift-ideas-for-every-budget/"/>
-        <id>https://nicolefargen.com/practical-bridesmaid-gift-ideas-for-every-budget/</id>
-        <media:content url="https://nicolefargen.com/media/posts/30/Practical.png" medium="image" />
+        <link href="https://noelpaperco.com/practical-bridesmaid-gift-ideas-for-every-budget/"/>
+        <id>https://noelpaperco.com/practical-bridesmaid-gift-ideas-for-every-budget/</id>
+        <media:content url="https://noelpaperco.com/media/posts/30/Practical.png" medium="image" />
 
         <updated>2025-06-02T14:44:27-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nicolefargen.com/media/posts/30/Practical.png" alt="" />
+                        <img src="https://noelpaperco.com/media/posts/30/Practical.png" alt="" />
                     Need some inspiration on what to get your bridesmaids when you ask&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nicolefargen.com/media/posts/30/Practical.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://noelpaperco.com/media/posts/30/Practical.png" class="type:primaryImage" alt="" /></p>
                 <h6 class="align-center" data-start="942" data-end="1506">Need some inspiration on what to get your bridesmaids when you ask them to be apart of your big day? Don't pick out the typical items with "bridesmaid" plastered all over it!  First things first, gifts aren't necessary! Something as simple as a heart felt note is just as amazing as a expensive tote bag.  Here are some ideas that your bridesmaids will be so appreciative of!</h6>
 <h1 class="align-center">Gift Guide 🛒</h1>
 <h1><strong>💰Under</strong> $5:</h1>
@@ -227,9 +239,9 @@
         <author>
             <name>Nicole Fargen</name>
         </author>
-        <link href="https://nicolefargen.com/the-wife-lotus-bachelorette-theme/"/>
-        <id>https://nicolefargen.com/the-wife-lotus-bachelorette-theme/</id>
-        <media:content url="https://nicolefargen.com/media/posts/29/The-Wife-Lotus-Bachelorette-Theme.png" medium="image" />
+        <link href="https://noelpaperco.com/the-wife-lotus-bachelorette-theme/"/>
+        <id>https://noelpaperco.com/the-wife-lotus-bachelorette-theme/</id>
+        <media:content url="https://noelpaperco.com/media/posts/29/The-Wife-Lotus-Bachelorette-Theme.png" medium="image" />
             <category term="Yellow"/>
             <category term="White"/>
             <category term="Rust"/>
@@ -242,13 +254,13 @@
         <updated>2025-06-02T08:41:45-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nicolefargen.com/media/posts/29/The-Wife-Lotus-Bachelorette-Theme.png" alt="" />
+                        <img src="https://noelpaperco.com/media/posts/29/The-Wife-Lotus-Bachelorette-Theme.png" alt="" />
                     Get inspired for your beachy bride tribe getaway with the chic “Wife&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nicolefargen.com/media/posts/29/The-Wife-Lotus-Bachelorette-Theme.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://noelpaperco.com/media/posts/29/The-Wife-Lotus-Bachelorette-Theme.png" class="type:primaryImage" alt="" /></p>
                 <h6 class="align-center" data-start="942" data-end="1506"><span class="JlN zDA IZT tBJ dyH iFc sAJ swG">Get inspired for your beachy bride tribe getaway with the chic “Wife Lotus” bachelorette theme! Featuring neutral + tropical outfit ideas, curated accessories, custom Etsy mobile invite, and a full aesthetic vision for your bridal weekend. Perfect for brides who love relaxed, elevated vibes.</span><span class="JlN zDA IZT tBJ dyH iFc sAJ swG">✨ Pin this for your destination bachelorette planning!</span></h6>
 <h3 class="align-left">Shop this mood board 🛒</h3>
 <ul style="list-style-type: square;">
@@ -302,9 +314,9 @@
         <author>
             <name>Nicole Fargen</name>
         </author>
-        <link href="https://nicolefargen.com/spring-cottagecore-floral-or-wedding-color-theme-3/"/>
-        <id>https://nicolefargen.com/spring-cottagecore-floral-or-wedding-color-theme-3/</id>
-        <media:content url="https://nicolefargen.com/media/posts/28/Spring-Floral-Wedding-Theme.png" medium="image" />
+        <link href="https://noelpaperco.com/spring-cottagecore-floral-or-wedding-color-theme-3/"/>
+        <id>https://noelpaperco.com/spring-cottagecore-floral-or-wedding-color-theme-3/</id>
+        <media:content url="https://noelpaperco.com/media/posts/28/Spring-Floral-Wedding-Theme.png" medium="image" />
             <category term="Yellow"/>
             <category term="Wedding Mood Boards"/>
             <category term="Pink"/>
@@ -315,13 +327,13 @@
         <updated>2025-05-27T21:26:19-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nicolefargen.com/media/posts/28/Spring-Floral-Wedding-Theme.png" alt="" />
+                        <img src="https://noelpaperco.com/media/posts/28/Spring-Floral-Wedding-Theme.png" alt="" />
                     Looking for a soft, romantic wedding vibe? This spring wedding mood board&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nicolefargen.com/media/posts/28/Spring-Floral-Wedding-Theme.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://noelpaperco.com/media/posts/28/Spring-Floral-Wedding-Theme.png" class="type:primaryImage" alt="" /></p>
                 <h6 class="align-center" data-start="942" data-end="1506">Looking for a soft, romantic wedding vibe? This spring wedding mood board is bursting with vintage elegance - from floral cakes and botanical stationery to pastel gowns and whimsical wildflower centerpieces. Ideal for romantic, cottage-core, or English garden wedding themes. Save for your wedding Pinterest board or share with your planner or bridal party!</h6>
 <h3 class="align-left">Shop this vision board 🛒</h3>
 <ul style="list-style-type: square;">
@@ -376,9 +388,9 @@
         <author>
             <name>Nicole Fargen</name>
         </author>
-        <link href="https://nicolefargen.com/orange-rust-mustard-or-wedding-color-theme-2/"/>
-        <id>https://nicolefargen.com/orange-rust-mustard-or-wedding-color-theme-2/</id>
-        <media:content url="https://nicolefargen.com/media/posts/27/Wedding-Theme-2.png" medium="image" />
+        <link href="https://noelpaperco.com/orange-rust-mustard-or-wedding-color-theme-2/"/>
+        <id>https://noelpaperco.com/orange-rust-mustard-or-wedding-color-theme-2/</id>
+        <media:content url="https://noelpaperco.com/media/posts/27/Wedding-Theme-2.png" medium="image" />
             <category term="Wedding Mood Boards"/>
             <category term="Rust"/>
             <category term="Copper"/>
@@ -386,13 +398,13 @@
         <updated>2025-05-16T15:40:01-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nicolefargen.com/media/posts/27/Wedding-Theme-2.png" alt="" />
+                        <img src="https://noelpaperco.com/media/posts/27/Wedding-Theme-2.png" alt="" />
                     If you’re dreaming of an elegant fall wedding with warm, romantic tones—this&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nicolefargen.com/media/posts/27/Wedding-Theme-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://noelpaperco.com/media/posts/27/Wedding-Theme-2.png" class="type:primaryImage" alt="" /></p>
                 <h6 class="align-center" data-start="942" data-end="1506"><em>If you’re dreaming of an elegant fall wedding with warm, romantic tones—this mood board brings that vision to life. From satin bridesmaid dresses in shades of rust, peach, and gold to an ivory embroidered bridal gown and modern neutral-toned stationery, every detail here is curated to reflect the cozy richness of autumn. We’ve included everything from floral design inspiration and signage to a terracotta-tiered wedding cake and reception table details. Below, you’ll find all the exact product links so you can recreate this chic autumn wedding look with ease.</em></h6>
 <h3 class="align-left">Shop this vision board 🛒</h3>
 <ul style="list-style-type: square;">
@@ -447,9 +459,9 @@
         <author>
             <name>Nicole Fargen</name>
         </author>
-        <link href="https://nicolefargen.com/blush-pink-ivory-or-wedding-color-theme-3/"/>
-        <id>https://nicolefargen.com/blush-pink-ivory-or-wedding-color-theme-3/</id>
-        <media:content url="https://nicolefargen.com/media/posts/26/Rose-Blush-White-Wedding-Theme.png" medium="image" />
+        <link href="https://noelpaperco.com/blush-pink-ivory-or-wedding-color-theme-3/"/>
+        <id>https://noelpaperco.com/blush-pink-ivory-or-wedding-color-theme-3/</id>
+        <media:content url="https://noelpaperco.com/media/posts/26/Rose-Blush-White-Wedding-Theme.png" medium="image" />
             <category term="White"/>
             <category term="Wedding Mood Boards"/>
             <category term="Pink"/>
@@ -458,13 +470,13 @@
         <updated>2025-05-09T16:47:50-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nicolefargen.com/media/posts/26/Rose-Blush-White-Wedding-Theme.png" alt="" />
+                        <img src="https://noelpaperco.com/media/posts/26/Rose-Blush-White-Wedding-Theme.png" alt="" />
                     Dreaming of a soft, romantic wedding theme? This blush pink and ivory&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nicolefargen.com/media/posts/26/Rose-Blush-White-Wedding-Theme.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://noelpaperco.com/media/posts/26/Rose-Blush-White-Wedding-Theme.png" class="type:primaryImage" alt="" /></p>
                 <h6 class="align-center">Dreaming of a soft, romantic wedding theme? This blush pink and ivory wedding inspiration board features modern satin bridesmaid dresses, neutral-toned cascading florals, elegant reception decor, a timeless applique bridal gown, and delicate touches like velvet ring boxes and minimal signage. It’s the perfect pastel wedding color palette for spring, summer, or timeless year-round weddings. Ideal for brides planning a chic and elevated celebration. Repin these wedding ideas to start your mood board now! </h6>
 <h3 class="align-left">Shop this vision board 🛒</h3>
 <ul style="list-style-type: square;">
@@ -520,9 +532,9 @@
         <author>
             <name>Nicole Fargen</name>
         </author>
-        <link href="https://nicolefargen.com/teal-pink-or-wedding-color-theme-2/"/>
-        <id>https://nicolefargen.com/teal-pink-or-wedding-color-theme-2/</id>
-        <media:content url="https://nicolefargen.com/media/posts/25/Pink-Teal-Wedding-Theme.png" medium="image" />
+        <link href="https://noelpaperco.com/teal-pink-or-wedding-color-theme-2/"/>
+        <id>https://noelpaperco.com/teal-pink-or-wedding-color-theme-2/</id>
+        <media:content url="https://noelpaperco.com/media/posts/25/Pink-Teal-Wedding-Theme.png" medium="image" />
             <category term="Wedding Mood Boards"/>
             <category term="Pink"/>
             <category term="Blue"/>
@@ -530,13 +542,13 @@
         <updated>2025-05-09T15:13:31-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nicolefargen.com/media/posts/25/Pink-Teal-Wedding-Theme.png" alt="" />
+                        <img src="https://noelpaperco.com/media/posts/25/Pink-Teal-Wedding-Theme.png" alt="" />
                     Dreaming of a soft and romantic wedding with a touch of vintage&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nicolefargen.com/media/posts/25/Pink-Teal-Wedding-Theme.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://noelpaperco.com/media/posts/25/Pink-Teal-Wedding-Theme.png" class="type:primaryImage" alt="" /></p>
                 <h6 class="align-center">Dreaming of a soft and romantic wedding with a touch of vintage elegance?This pink and teal wedding inspiration board brings together everything you need for a modern-meets-classic celebration.Featuring an editable wedding invitation template and matching welcome sign in Canva, this suite pairs effortlessly with timeless florals, satin bridesmaid dresses, and candlelit decor.Perfect for 2025 brides planning a chic and sophisticated event.</h6>
 <h3 class="align-left">Shop this vision board 🛒</h3>
 <ul style="list-style-type: square;">
@@ -593,9 +605,9 @@
         <author>
             <name>Nicole Fargen</name>
         </author>
-        <link href="https://nicolefargen.com/chartreuse-olive-green-taupe-black-or-wedding-color-theme-3/"/>
-        <id>https://nicolefargen.com/chartreuse-olive-green-taupe-black-or-wedding-color-theme-3/</id>
-        <media:content url="https://nicolefargen.com/media/posts/24/olive-black-taupe-1.png" medium="image" />
+        <link href="https://noelpaperco.com/chartreuse-olive-green-taupe-black-or-wedding-color-theme-3/"/>
+        <id>https://noelpaperco.com/chartreuse-olive-green-taupe-black-or-wedding-color-theme-3/</id>
+        <media:content url="https://noelpaperco.com/media/posts/24/olive-black-taupe-1.png" medium="image" />
             <category term="Wedding Mood Boards"/>
             <category term="Green"/>
             <category term="Brown"/>
@@ -604,13 +616,13 @@
         <updated>2025-05-09T15:01:34-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nicolefargen.com/media/posts/24/olive-black-taupe-1.png" alt="" />
+                        <img src="https://noelpaperco.com/media/posts/24/olive-black-taupe-1.png" alt="" />
                     Are you a wedding planner or bride scheduled for a tropical destination&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nicolefargen.com/media/posts/24/olive-black-taupe-1.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://noelpaperco.com/media/posts/24/olive-black-taupe-1.png" class="type:primaryImage" alt="" /></p>
                 <h6 class="align-center"><em>Are you a wedding planner or bride scheduled for a tropical destination wedding? This moody and trendy collage combines bold and monochromatic colors in its table decor, stationery, bridesmaid dresses, and more! Click the links to make this your wedding reality!</em></h6>
 <h3 class="align-left">Shop this vision board 🛒</h3>
 <ul style="list-style-type: square;">
@@ -649,73 +661,6 @@
 </li>
 </ul>
 <h6 class="align-center"><em>Everything in this board was chosen to bring your tropical wedding vision to life. Click each link above to shop the look, and don’t forget to pin this mood board for inspiration later!</em></h6>
-<pre><strong data-start="368" data-end="383">Disclosure:</strong> This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. Thank you for supporting NK Designs Co!</pre>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Plum Peach Pink Orange Red | Wedding Color Theme</title>
-        <author>
-            <name>Nicole Fargen</name>
-        </author>
-        <link href="https://nicolefargen.com/plum-peach-pink-orange-red-or-wedding-color-theme-2/"/>
-        <id>https://nicolefargen.com/plum-peach-pink-orange-red-or-wedding-color-theme-2/</id>
-        <media:content url="https://nicolefargen.com/media/posts/23/plum-peach-pink-orange-red.png" medium="image" />
-            <category term="Wedding Mood Boards"/>
-            <category term="Red"/>
-            <category term="Pink"/>
-            <category term="Peach"/>
-            <category term="Mauve"/>
-            <category term="Copper"/>
-            <category term="Champagne"/>
-
-        <updated>2025-05-09T12:06:05-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://nicolefargen.com/media/posts/23/plum-peach-pink-orange-red.png" alt="" />
-                    Bold Colors are "in" this wedding season! Combine the plum, pleach, and&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://nicolefargen.com/media/posts/23/plum-peach-pink-orange-red.png" class="type:primaryImage" alt="" /></p>
-                <h6 class="align-center">Bold Colors are "in" this wedding season! Combine the plum, pleach, and orange colors with copper accents in your table decor, bridesmaid dresses, signage, and more.   Use the links below to create your brilliant and fun wedding! </h6>
-<h3 class="align-left">Shop this vision board 🛒</h3>
-<ul style="list-style-type: square;">
-<li><strong>Men's Suit</strong>
-<ul>
-<li><a href="https://suitshop.com/products/tan-suit/"  class="extlink extlink-icon-1"  >Tan Men's Suit</a></li>
-</ul>
-</li>
-<li><strong>Wedding Gown</strong>
-<ul style="list-style-type: circle;">
-<li><a href="https://www.anthropologie.com/shop/jenny-yoo-francesca-off-the-shoulder-fit-flare-crepe-wedding-gown?color=011&amp;size=00&amp;type=STANDARD&amp;utm_campaign=pinterest&amp;utm_medium=social&amp;utm_source=pinterest&amp;utm_term=Jenny-Yoo-Francesca-Off-The-Shoulder-Fit-&amp;-Flare-Crepe-Wedding-Gown&amp;utm_content=isproducttag&amp;utm_kxconfid=vx6re1853"  class="extlink extlink-icon-1"  >Wedding Gown</a></li>
-</ul>
-</li>
-<li><strong>Bridesmaid Dresses (Left to Right)</strong>
-<ul>
-<li><a></a><a href="https://www.selfieleslie.com/products/high-roller-flower-decoration-halter-dress-olive"  class="extlink extlink-icon-1"  ></a><a href="https://www.birdygrey.com/products/veronica-matte-satin-dress-plum"  class="extlink extlink-icon-1"  >Plum V-Neck Bridesmaid Dress</a></li>
-<li><a href="https://www.jennyyoo.com/products/bridesmaid-dress/marla?color=PTN&amp;type=mto"  class="extlink extlink-icon-1"  ></a><a href="https://shoprevelry.com/products/veronica-satin-dress-made-to-order?variant=43178231627876"  class="extlink extlink-icon-1"  >Peach Cowl High Neck Bridesmaid Dress</a></li>
-<li><a></a><a href="https://www.birdygrey.com/products/alex-convertible-dress-dark-mauve"  class="extlink extlink-icon-1"  >Mauve Square Neck Bows Bridesmaid Dress</a></li>
-<li><a></a><a href="https://www.birdygrey.com/products/chris-convertible-chiffon-dress-auburn?variant=43695671607487&amp;utm_source=pinterest&amp;utm_medium=org-social&amp;utm_content=feed"  class="extlink extlink-icon-1"  >Red Orange Strapless Bridesmaid Dress</a></li>
-<li><a style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"></a><a href="https://www.sixstories.com/products/cowl-front-satin-bridesmaid-dress-rust"  class="extlink extlink-icon-1"  >Copper Cowl Neck Bridesmaid Dress</a></li>
-<li><a href="https://www.birdygrey.com/products/lisa-long-shiny-satin-dress-champagne?variant=42459146617023&amp;utm_source=pinterest&amp;utm_medium=org-social&amp;utm_content=feed"  class="extlink extlink-icon-1"  >Champagne Cowl Neck Bridesmaid Dress</a></li>
-</ul>
-</li>
-<li><strong>Signage/Stationery</strong>
-<ul>
-<li><a href="https://www.etsy.com/listing/1779356036/elegant-mauve-and-pink-wedding"  class="extlink extlink-icon-1"  >Mauve &amp; Pink Invitation Suite</a></li>
-<li><a href="https://www.zazzle.com/mia_burnt_orange_minimalist_bohemian_details_card-256674485710326691"  class="extlink extlink-icon-1"  >Burnt Orange Details Card</a></li>
-<li><a href="https://www.zazzle.com/crimson_red_white_simple_photo_wedding_save_the_date-256647939917434574"  class="extlink extlink-icon-1"  >Red Save the Date</a></li>
-</ul>
-</li>
-<li><strong>Accessories</strong>
-<ul style="list-style-type: circle;">
-<li><a href="https://www.dolcevita.com/products/carlan-heels-off-white-silk?variant=40365644513346"  class="extlink extlink-icon-1"  >White Heels</a></li>
-</ul>
-</li>
-</ul>
-<h6 class="align-center"><em>Everything in this board was chosen to bring your colorful wedding vision to life. Click each link above to shop the look, and don’t forget to pin this mood board for inspiration later!</em></h6>
 <pre><strong data-start="368" data-end="383">Disclosure:</strong> This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. Thank you for supporting NK Designs Co!</pre>
             ]]>
         </content>
